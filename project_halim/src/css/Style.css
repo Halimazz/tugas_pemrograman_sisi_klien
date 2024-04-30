@@ -1,0 +1,8 @@
+.section {
+  min-height: 100vh;
+  background: linear-gradient(
+    135deg,
+    #333333,
+    #000000
+  ); /* Gradien dari merah ke kuning */
+}
